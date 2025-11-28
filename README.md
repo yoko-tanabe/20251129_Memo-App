@@ -7,7 +7,7 @@
 ー　計算結果もLocal Storageに保管しました
 
 ## ③アプリのデプロイURL
-
+https://github.com/yoko-tanabe/20251129_Memo-App/tree/main
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - ID: 〇〇〇〇〇〇〇〇
